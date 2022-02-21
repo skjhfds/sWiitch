@@ -1,1 +1,170 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T03:43:13.600Z" agent="5.0 (Windows)" version="16.6.1" etag="E62og_L_Go1bvtj0RUhi" type="github"><diagram id="VoI4xgoPtNJZ2E641nfh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-21T04:23:28.900Z" agent="5.0 (Windows)" etag="PoSaGBgZ4pFcREEwPKf6" version="16.6.1" type="github">
+  <diagram id="VoI4xgoPtNJZ2E641nfh" name="Page-1">
+    <mxGraphModel dx="1720" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Charging, GND&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-1" target="OSDpTFl5NO-x4Hm_-uNS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-49" value="USB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.315;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-1" target="OSDpTFl5NO-x4Hm_-uNS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="72" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-1" value="&lt;div&gt;USB-C Board&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-70" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-2" value="Wii" style="shape=card;whiteSpace=wrap;html=1;rotation=-90;size=120;textDirection=ltr;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="235" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-42" value="Voltage" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.668;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-3" target="OSDpTFl5NO-x4Hm_-uNS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-3" value="&lt;font style=&quot;font-size: 12px&quot;&gt;PMS (Power)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-57" value="Voltage, GND, Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="315" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Bluetooth Module&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-5" target="OSDpTFl5NO-x4Hm_-uNS-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-5" value="LCD Display" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-47" value="Video" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=1;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-6" target="OSDpTFl5NO-x4Hm_-uNS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-6" value="LCD Driver" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-55" value="Audio, Voltage, GND" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.419;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.737;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-7" target="OSDpTFl5NO-x4Hm_-uNS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="222" y="529" />
+              <mxPoint x="222" y="481" />
+              <mxPoint x="222" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Audio Board&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="527.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-46" value="Data, Voltage, GND" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-8" target="OSDpTFl5NO-x4Hm_-uNS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;GC2 Controls&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-56" value="Data, Voltage, GND, Battery" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-9" target="OSDpTFl5NO-x4Hm_-uNS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="220" />
+              <mxPoint x="410" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;MX Board (RTC)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-10" target="OSDpTFl5NO-x4Hm_-uNS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Battery&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-14" target="OSDpTFl5NO-x4Hm_-uNS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Fan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-18" target="OSDpTFl5NO-x4Hm_-uNS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-18" value="SDA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-19" target="OSDpTFl5NO-x4Hm_-uNS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-19" value="SCL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-29" target="OSDpTFl5NO-x4Hm_-uNS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-29" target="OSDpTFl5NO-x4Hm_-uNS-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="-90" />
+              <mxPoint x="20" y="-90" />
+              <mxPoint x="20" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-29" value="5V" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-35" target="OSDpTFl5NO-x4Hm_-uNS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-35" target="OSDpTFl5NO-x4Hm_-uNS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="-52" />
+              <mxPoint y="-52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-35" value="Ground" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="-160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-39" target="OSDpTFl5NO-x4Hm_-uNS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-39" value="RGB LED Board" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-50" target="OSDpTFl5NO-x4Hm_-uNS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-50" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Shoulder Button PCB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="522.5" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="OSDpTFl5NO-x4Hm_-uNS-53" target="OSDpTFl5NO-x4Hm_-uNS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSDpTFl5NO-x4Hm_-uNS-53" value="VGA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
